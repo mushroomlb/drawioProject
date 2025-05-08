@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.1">
   <diagram name="第 1 页" id="GFrTkqpYMvkBk_TVICd7">
-    <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="877T1UQhMeik1oj0sHr9-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
           <mxGeometry x="565" y="130" width="200" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="877T1UQhMeik1oj0sHr9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="877T1UQhMeik1oj0sHr9-14" target="877T1UQhMeik1oj0sHr9-16" edge="1">
+        <mxCell id="877T1UQhMeik1oj0sHr9-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;startArrow=classic;startFill=1;" parent="1" source="877T1UQhMeik1oj0sHr9-14" target="877T1UQhMeik1oj0sHr9-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="877T1UQhMeik1oj0sHr9-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="gORCPuRSUbTqxa047Pd6-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;金恒力网络部署图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gORCPuRSUbTqxa047Pd6-2" value="&lt;div&gt;白名单方式&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="275" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
